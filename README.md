@@ -1,4 +1,4 @@
-# vue-pay-keyboard
+# 自定义框架
 
 自定义框架
 
@@ -8,9 +8,9 @@
 
 ```JS
 package.json=>
-"Dframe": "git+https://github.com/liushuai05/Dframe.git",
+"Dframe": "git+https://github.com/denghongdddd/Dframe.git",
 
-npm install git+https://github.com/liushuai05/v-input.git
+npm install git+https://github.com/denghongdddd/Dframe.git
 ```
 
 ### 配置
